@@ -1,0 +1,3 @@
+- PEP8: https://www.python.org/dev/peps/pep-0008/
+- flake8: https://flake8.readthedocs.org/en/2.3.0/
+- when in doubt, maintain consistency with existing code
